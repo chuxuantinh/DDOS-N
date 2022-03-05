@@ -8,7 +8,6 @@
 <a href="#"><img alt="MHDDoS last commit (main)" src="https://img.shields.io/github/last-commit/MHProDev/MHDDoS/main?color=green&style=for-the-badge"></a>
 <a href="#"><img alt="MHDDoS Repo stars" src="https://img.shields.io/github/stars/MHProDev/MHDDoS?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="MHDDoS License" src="https://img.shields.io/github/license/MHProDev/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MHProDev/MHDDoS/issues"><img alt="MHDDoS issues" src="https://img.shields.io/github/issues/MHProDev/MHDDoS?color=purple&style=for-the-badge"></a>
 
 <p align="center">Please Don't Attack '.gov' and '.ir' Websites :)</p>
 
@@ -67,15 +66,10 @@
   * 🌠 TOOLS | Console Tools
   * 👑 HELP | Show Usage Script
 
-#### Issues ? 
- * Telegram : https://t.me/DD0SChat
- * Discord : MH_ProDev#2681
- * [GitHub][github]
+
 #### Like the project? Leave a star on the repository!
 
-## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/releases)
 
 ### Getting Started
 
@@ -93,24 +87,7 @@ You can download it from [GitHub Releases](https://github.com/MHProDev/MHDDoS/re
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-**Videos**
 
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Toturial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : https://youtu.be/mZilAOkLKK8
----
-
-**Clone and Install Script**
-
-```console
-git clone https://github.com/MHProDev/MHDDoS.git
-cd MHDDoS
-pip3 install -r requirements.txt
-```
 
 
 ## Launch Script
@@ -146,10 +123,7 @@ python3 start.py help
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MHProDev/MHDDoS/issues 'GitHub'
 
----
 
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
+
 
